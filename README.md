@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm George Panaite 👋
 
-<!--
-**george-panaite/george-panaite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Automation Specialist** based in Rotterdam, Netherlands.
 
-Here are some ideas to get you started:
+I design and build end-to-end automation workflows that connect 
+systems, eliminate manual work, and help organisations work smarter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I Build
+
+- 🤖 **Agentic AI workflows** — autonomous systems that reason and act
+- 🔗 **System integrations** — connecting APIs, CRMs, databases and tools
+- 📊 **Data pipelines** — structured output from unstructured sources
+- 💬 **AI-powered communication** — lead qualification, support hubs, content engines
+
+---
+
+## Tech Stack
+
+**Automation:** n8n · REST APIs · Webhooks
+
+**AI:** OpenAI GPT-4o · Google Gemini · Anthropic Claude · RAG pipelines
+
+**Data:** Supabase · Pinecone · Google Sheets · Airtable
+
+**Frontend:** Lovable · Softr · Tally
+
+**Integrations:** Gmail · Slack · WhatsApp Business API · Telegram
+
+---
+
+## Portfolio
+
+📁 [boldnode-portfolio](https://github.com/george-panaite/boldnode-portfolio) 
+— AI & automation workflows built with n8n
+
+🌐 [boldnode.nl](https://boldnode.nl) 
+— Full project showcase with demos and business context
+
+---
+
+## Let's Connect
+
+💼 [LinkedIn](https://linkedin.com/in/george-panaite) | 
+📧 georgepanaite@gmail.com
